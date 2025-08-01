@@ -1,0 +1,41 @@
+[
+    {
+        "Pokemon" : "Pikachu",
+        "Tipe" : "Listrik",
+        "kelemahan" : "Tanah",
+        "Ciri" : "Pikachu memiliki kantong penampung listrik di kedua pipinya. ketika marah,Pokémon ini mengeluarkan seluruh listrik yang telah terkumpul.",
+        "Evolusi" : "Pichu-Pikachu dan Raichu"
+},
+{
+        "Pokemon" : "Eevee",
+        "Tipe" :"Normal",
+        "Kelemahan" : "Petarung",
+        "Ciri" : "Eevee berpotensi untuk berevolusi ke berbagai macam wujud untuk segera dapat beradaptasi terhadap perubahan lingkungan.",
+        "Evolusi" : "Vaporeon-Jolteon-Flareon-Espeon-Umbreon-Leafeon-Glaceon-Sylveon"
+},
+{
+
+        "Pokemon" : "Machop",
+        "Tipe" : "Petarung",
+        "Kelemahan" : "Terbang-Psychic",
+        "Ciri" : "Seluruh tubuh Machop terbentuk dari otot, walau ukurannya hanya sebesar anak-anak, Pokémon ini mampu membanting dan melempar 100 orang dewasa.",
+        "Evolusi" : "Machop-Machoke-Machamp"
+},
+{
+
+        "Pokemon" : "Gastly",
+        "Tipe" : "Hantu dan Racun",
+        "kelemahan" : "Tanah-Psychic-Hantu-Kegelapan",
+        "Ciri" : "Gastly melekat pada mangsanya dengan tubuh gasnya, lalu melemahkan mereka dengan mengirimkan racun sedikit demi sedikit melalui kulit mereka.",
+        "Evolusi" : "Gastly-Haunter-Gengar"
+
+},
+{
+        "Pokemon" : "Cosmog",
+        "Tipe" : "Psychic",
+        "Kelemahan" : "Serangga-Hantu-Kegelapan",
+        "Ciri" : "Tubuh gas Cosmog yang tidak berdaya terbawa angin walau hanya sepoi-sepoi, tapi Pokémon ini sama sekali tidak mempersalahkannya.",
+        "Evolusi" : "Cosmog-Cosmoem-Solgaleo atau Lunala"
+        
+    }
+]
