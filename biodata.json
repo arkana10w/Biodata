@@ -1,0 +1,28 @@
+[
+  {
+"nama" : "Arkana Hakim",
+"tempat_lahir" : "Cimahi",
+"tanggal_lahir" : "2009-02-10",
+"usia" : "16",
+"sekolah" : "SMK MARHAS MARGAHAYU",
+
+"alamat" : {
+    "jalan" : "Kp. Bojong Malaka Indah blok H4 no 30 Rt 09 Rw 16",
+    "desa" : "Bojong Malaka",
+    "kecamatan" : "Baleendah"
+},
+"hobi" : [
+    "Mendengar",
+    "Voli",
+    "Main Game",
+    "Pokemon"
+
+],
+
+"kontak" : {
+    "email" : "arkanahakim1002@gmail.com",
+    "whatsapp" : "82295967870",
+    "Intagram" : "arkana10@gmail.com"
+}
+    }
+]
